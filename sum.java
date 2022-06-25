@@ -6,6 +6,6 @@ class sum
         int y=10;
         int total=x+y;
 
-        System.out.println(total);
+        System.out.println("sum of two no is :"+total);
     }
 }
