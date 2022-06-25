@@ -4,6 +4,6 @@ class diff
         int x=3;
         int y=4;
         int diffrence=x-y;
-        System.out.println("Diffrence:"+diffrence);
+        System.out.println("Substraction :"+diffrence);
     }
 }
